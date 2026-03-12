@@ -1,1 +1,1 @@
-"# Small_Projects" 
+Collection of small unrelated projects. 
